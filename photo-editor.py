@@ -1,3 +1,11 @@
+# @code_plus2
+
+# alireza memarzade
+
+# create a clock using python turtle
+
+#
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog

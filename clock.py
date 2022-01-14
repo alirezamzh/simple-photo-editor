@@ -1,9 +1,12 @@
 # coding=utf-8
+
 # @code_plus2
+
 # alireza memarzade
+
 # create a clock using python turtle
 
-# 
+# https://github.com/alirezamzh/clock-with-python.git
 
 import turtle
 from datetime import *
